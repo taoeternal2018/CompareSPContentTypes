@@ -8,3 +8,5 @@
 /.vs/AKARi.Deployment.Validation/v14
 /.vs/AKARi.Deployment.Validation/v14
 *.suo
+/CompareSPContentTypes/bin/Debug
+/CompareSPContentTypes/obj/Debug
