@@ -3,3 +3,5 @@
 ################################################################################
 
 /AKARi.Deployment.Validation/obj/Debug
+/AKARi.Deployment.Validation/bin/Debug
+/packages/NLog.4.5.0
